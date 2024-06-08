@@ -22,6 +22,7 @@ In summary, software engineering is akin to building architecture, while program
 
 Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
 The SDLC guides software creation through phases:
 1. Planning & Analysis: Assess project feasibility and gather requirements.
 2. Define Requirements: Detail what end-users need from the software.
@@ -35,6 +36,7 @@ Each phase builds on the previous to ensure a quality software product.
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 The Agile and Waterfall models are two distinct approaches to software development, each with its own methodologies and preferred scenarios for use.
 Agile Model:
 Adaptability: Agile is known for its adaptability and iterative progress. It allows for frequent changes and encourages stakeholder interaction throughout the development process.
@@ -55,6 +57,7 @@ In summary, Agile is preferred for projects that are expected to change and evol
 
 Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
 Requirements engineering (RE) is vital in the SDLC, ensuring software meets user needs. It involves:
 1. Feasibility Study: Checking project viability.
 2. Requirements Elicitation and Analysis: Gathering and analyzing stakeholder needs.
@@ -66,6 +69,7 @@ RE is essential for creating quality software that aligns with user expectations
 
 Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
 Modularity in software design refers to the practice of structuring a software system as a collection of distinct and interchangeable modules. Each module is designed to execute one aspect of the desired functionality of the system, and they interact with one another through well-defined interfaces. This design principle is akin to building with blocks, where each block serves a specific purpose and can be combined in various ways to create different structures.
 Improvements in Maintainability:
 Isolation of Concerns: By encapsulating specific functionalities within separate modules, developers can focus on one area without the risk of affecting others. This isolation simplifies understanding and fixing bugs.
@@ -80,6 +84,7 @@ In summary, modularity is a strategic approach to software design that promotes 
 
 Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
 Software testing is a critical process in the development lifecycle, ensuring that the software meets the required standards and functions as intended. Here’s a brief overview of the different levels of software testing:
 1. Unit Testing:
 Focus: Individual components or units of code1.
@@ -108,6 +113,7 @@ In essence, testing is an indispensable part of software development that contri
 
 Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
 Version control systems (VCS) are software tools that help manage changes to source code over time. They track every modification to the code in a special kind of database, allowing developers to revert to previous versions if necessary and collaborate more effectively. 
 Here’s why they’re important in software development:
 Streamlined Release Management: VCS facilitate the management of different software releases, aligning with the release roadmap.
@@ -122,6 +128,7 @@ These systems are integral to modern software development, enabling better code 
 
 Software Project Management:
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
 The role of a software project manager is pivotal in the software development lifecycle. They are responsible for overseeing the project from inception to completion, ensuring that it meets the desired quality standards, stays within budget, and is delivered on time. Here are some key responsibilities and challenges they face:
 Key Responsibilities:
 Project Planning: Defining project scope, objectives, and timelines.
@@ -140,6 +147,7 @@ These responsibilities and challenges highlight the complexity of the software p
 
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
 Software maintenance is the process of modifying and updating a software system after it has been delivered to the customer. It’s a critical part of the software development life cycle (SDLC) and is necessary to ensure that the software continues to meet the needs of the users over time.
 Types of Software Maintenance Activities:
 Corrective Maintenance:
@@ -166,6 +174,7 @@ In summary, maintenance is not just about fixing bugs; it’s about ensuring tha
 
 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
 Software engineers may encounter various ethical issues that can arise from the complex nature of their work. Some of these issues include:
 Algorithmic Bias: Creating algorithms that inadvertently or intentionally discriminate against certain groups of people.
 Data Privacy: Handling sensitive user data responsibly to protect privacy and prevent misuse.
